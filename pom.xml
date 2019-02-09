@@ -36,7 +36,7 @@
 	</dependency>
   </dependencies>
   <build>
-    <finalName>DummyApplication</finalName>
+    <finalName>Trng1_Nexus</finalName>
   </build>
   <distributionManagement>
   <repository>
