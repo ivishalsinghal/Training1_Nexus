@@ -38,4 +38,10 @@
   <build>
     <finalName>DummyApplication</finalName>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>123</id>
+    <url>http://localhost:8081/nexus/content/repositories/123</url>
+  </repository>
+</distributionManagement>
 </project>
