@@ -4,7 +4,7 @@
   <groupId>com.tcs</groupId>
   <artifactId>Trng1_Nexus</artifactId>
   <packaging>war</packaging>
-  <version>1.1</version>
+  <version>1.11</version>
   <name>DummyApplication Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
